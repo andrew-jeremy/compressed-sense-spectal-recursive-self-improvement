@@ -1,0 +1,92 @@
+{
+  "label": "broad_noncompressible",
+  "pilot_residual": 0.23535013065230698,
+  "pilot_passed": true,
+  "nominated_experts": [],
+  "recovered_experts": [
+    0,
+    1,
+    2,
+    3,
+    10,
+    11,
+    14
+  ],
+  "bootstrap_frequencies": [
+    0.6333333333333333,
+    0.7,
+    0.8,
+    1.0,
+    0.0,
+    0.36666666666666664,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.7,
+    0.06666666666666667,
+    0.03333333333333333,
+    0.6666666666666666,
+    0.06666666666666667
+  ],
+  "delta_hat_norm": 0.5786403179257823,
+  "gate_decision": "rollback",
+  "anchor_reports": [
+    {
+      "anchor_id": "334",
+      "e_value": 234.82938052020245,
+      "n_items": 600,
+      "non_inferior": true
+    },
+    {
+      "anchor_id": "30",
+      "e_value": 0.80236035636526,
+      "n_items": 10500,
+      "non_inferior": false
+    },
+    {
+      "anchor_id": "6",
+      "e_value": 251.58208579078092,
+      "n_items": 200,
+      "non_inferior": true
+    },
+    {
+      "anchor_id": "201",
+      "e_value": 167.24771864907908,
+      "n_items": 800,
+      "non_inferior": true
+    },
+    {
+      "anchor_id": "122",
+      "e_value": 235.12885301497207,
+      "n_items": 300,
+      "non_inferior": true
+    },
+    {
+      "anchor_id": "106",
+      "e_value": 339.53558632828225,
+      "n_items": 700,
+      "non_inferior": true
+    },
+    {
+      "anchor_id": "16",
+      "e_value": 228.4699106616943,
+      "n_items": 400,
+      "non_inferior": true
+    },
+    {
+      "anchor_id": "250",
+      "e_value": 1.3047233987266813e-07,
+      "n_items": 10500,
+      "non_inferior": false
+    }
+  ],
+  "items_probe": 0,
+  "items_sense": 117823,
+  "items_anchor": 24000,
+  "drift_alarm": false,
+  "dense_fallback": false,
+  "wall_time_s": 0.7724199295043945,
+  "audit_hash": ""
+}

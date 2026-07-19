@@ -1,0 +1,88 @@
+{
+  "label": "single_regression",
+  "pilot_residual": 0.23139577368555314,
+  "pilot_passed": true,
+  "nominated_experts": [
+    9
+  ],
+  "recovered_experts": [
+    9
+  ],
+  "bootstrap_frequencies": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "delta_hat_norm": 0.5889789877439492,
+  "gate_decision": "accept",
+  "anchor_reports": [
+    {
+      "anchor_id": "334",
+      "e_value": 241.79718183182544,
+      "n_items": 1000,
+      "non_inferior": true
+    },
+    {
+      "anchor_id": "30",
+      "e_value": 569.1475968140537,
+      "n_items": 900,
+      "non_inferior": true
+    },
+    {
+      "anchor_id": "6",
+      "e_value": 247.95589104591164,
+      "n_items": 1000,
+      "non_inferior": true
+    },
+    {
+      "anchor_id": "201",
+      "e_value": 182.93673261458704,
+      "n_items": 700,
+      "non_inferior": true
+    },
+    {
+      "anchor_id": "122",
+      "e_value": 563.1245259936661,
+      "n_items": 1600,
+      "non_inferior": true
+    },
+    {
+      "anchor_id": "106",
+      "e_value": 441.4258735980928,
+      "n_items": 800,
+      "non_inferior": true
+    },
+    {
+      "anchor_id": "16",
+      "e_value": 368.0537538617217,
+      "n_items": 800,
+      "non_inferior": true
+    },
+    {
+      "anchor_id": "250",
+      "e_value": 566.031016280265,
+      "n_items": 300,
+      "non_inferior": true
+    }
+  ],
+  "items_probe": 0,
+  "items_sense": 118167,
+  "items_anchor": 7100,
+  "drift_alarm": false,
+  "dense_fallback": false,
+  "wall_time_s": 0.5888705253601074,
+  "audit_hash": ""
+}

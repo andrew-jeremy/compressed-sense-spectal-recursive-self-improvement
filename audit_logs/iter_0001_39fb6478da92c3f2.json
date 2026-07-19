@@ -1,0 +1,88 @@
+{
+  "label": "single_gain",
+  "pilot_residual": 0.27576717396828027,
+  "pilot_passed": true,
+  "nominated_experts": [
+    5
+  ],
+  "recovered_experts": [
+    5
+  ],
+  "bootstrap_frequencies": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "delta_hat_norm": 0.44197889658914674,
+  "gate_decision": "rollback",
+  "anchor_reports": [
+    {
+      "anchor_id": "334",
+      "e_value": 160.76701981218636,
+      "n_items": 900,
+      "non_inferior": true
+    },
+    {
+      "anchor_id": "30",
+      "e_value": 467.2714904534206,
+      "n_items": 1200,
+      "non_inferior": true
+    },
+    {
+      "anchor_id": "6",
+      "e_value": 419.47318763482326,
+      "n_items": 900,
+      "non_inferior": true
+    },
+    {
+      "anchor_id": "201",
+      "e_value": 216.77129139572813,
+      "n_items": 600,
+      "non_inferior": true
+    },
+    {
+      "anchor_id": "122",
+      "e_value": 0.0013026374477917682,
+      "n_items": 17800,
+      "non_inferior": false
+    },
+    {
+      "anchor_id": "106",
+      "e_value": 265.65566368529994,
+      "n_items": 1000,
+      "non_inferior": true
+    },
+    {
+      "anchor_id": "16",
+      "e_value": 415.9258658553774,
+      "n_items": 900,
+      "non_inferior": true
+    },
+    {
+      "anchor_id": "250",
+      "e_value": 202.95912499291987,
+      "n_items": 700,
+      "non_inferior": true
+    }
+  ],
+  "items_probe": 25600,
+  "items_sense": 118142,
+  "items_anchor": 24000,
+  "drift_alarm": false,
+  "dense_fallback": false,
+  "wall_time_s": 0.7597198486328125,
+  "audit_hash": ""
+}

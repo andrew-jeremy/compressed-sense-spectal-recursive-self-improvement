@@ -1,0 +1,18 @@
+{
+  "label": "single_regression",
+  "pilot_residual": 0.6168964659603382,
+  "pilot_passed": false,
+  "nominated_experts": [],
+  "recovered_experts": [],
+  "bootstrap_frequencies": [],
+  "delta_hat_norm": 0.0,
+  "gate_decision": "quarantine",
+  "anchor_reports": [],
+  "items_probe": 0,
+  "items_sense": 0,
+  "items_anchor": 0,
+  "drift_alarm": false,
+  "dense_fallback": true,
+  "wall_time_s": 0.0009458065032958984,
+  "audit_hash": ""
+}

@@ -1,0 +1,90 @@
+{
+  "label": "canceling_mixture",
+  "pilot_residual": 0.11348386633284895,
+  "pilot_passed": true,
+  "nominated_experts": [
+    2,
+    11
+  ],
+  "recovered_experts": [
+    2,
+    11
+  ],
+  "bootstrap_frequencies": [
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "delta_hat_norm": 1.0229857470337602,
+  "gate_decision": "accept",
+  "anchor_reports": [
+    {
+      "anchor_id": "334",
+      "e_value": 227.1790839976592,
+      "n_items": 600,
+      "non_inferior": true
+    },
+    {
+      "anchor_id": "30",
+      "e_value": 211.58753021923582,
+      "n_items": 1700,
+      "non_inferior": true
+    },
+    {
+      "anchor_id": "6",
+      "e_value": 337.7229537535491,
+      "n_items": 700,
+      "non_inferior": true
+    },
+    {
+      "anchor_id": "201",
+      "e_value": 294.42563621849735,
+      "n_items": 700,
+      "non_inferior": true
+    },
+    {
+      "anchor_id": "122",
+      "e_value": 648.0817671265345,
+      "n_items": 900,
+      "non_inferior": true
+    },
+    {
+      "anchor_id": "106",
+      "e_value": 221.63290566208545,
+      "n_items": 800,
+      "non_inferior": true
+    },
+    {
+      "anchor_id": "16",
+      "e_value": 272.29510350945,
+      "n_items": 1300,
+      "non_inferior": true
+    },
+    {
+      "anchor_id": "250",
+      "e_value": 208.22888121880962,
+      "n_items": 1400,
+      "non_inferior": true
+    }
+  ],
+  "items_probe": 0,
+  "items_sense": 118033,
+  "items_anchor": 8100,
+  "drift_alarm": false,
+  "dense_fallback": false,
+  "wall_time_s": 0.5953378677368164,
+  "audit_hash": ""
+}

@@ -1,0 +1,95 @@
+{
+  "label": "canceling_mixture",
+  "pilot_residual": 0.45268904977071683,
+  "pilot_passed": true,
+  "nominated_experts": [
+    2,
+    11
+  ],
+  "recovered_experts": [
+    0,
+    1,
+    2,
+    6,
+    9,
+    11,
+    12
+  ],
+  "bootstrap_frequencies": [
+    0.7666666666666667,
+    0.5,
+    1.0,
+    0.5,
+    0.23333333333333334,
+    0.4666666666666667,
+    0.5333333333333333,
+    0.43333333333333335,
+    0.36666666666666664,
+    0.7,
+    0.3,
+    1.0,
+    0.7666666666666667,
+    0.6333333333333333,
+    0.43333333333333335,
+    0.36666666666666664
+  ],
+  "delta_hat_norm": 1.126344708711783,
+  "gate_decision": "quarantine",
+  "anchor_reports": [
+    {
+      "anchor_id": "334",
+      "e_value": 382.47973539119283,
+      "n_items": 600,
+      "non_inferior": true
+    },
+    {
+      "anchor_id": "30",
+      "e_value": 3.7129211002247526,
+      "n_items": 13500,
+      "non_inferior": false
+    },
+    {
+      "anchor_id": "6",
+      "e_value": 228.23419651252212,
+      "n_items": 1500,
+      "non_inferior": true
+    },
+    {
+      "anchor_id": "201",
+      "e_value": 208.1926239561189,
+      "n_items": 300,
+      "non_inferior": true
+    },
+    {
+      "anchor_id": "122",
+      "e_value": 323.4037912043764,
+      "n_items": 4400,
+      "non_inferior": true
+    },
+    {
+      "anchor_id": "106",
+      "e_value": 228.200320145717,
+      "n_items": 1800,
+      "non_inferior": true
+    },
+    {
+      "anchor_id": "16",
+      "e_value": 237.23016508907656,
+      "n_items": 1000,
+      "non_inferior": true
+    },
+    {
+      "anchor_id": "250",
+      "e_value": 272.6676819815032,
+      "n_items": 900,
+      "non_inferior": true
+    }
+  ],
+  "items_probe": 0,
+  "items_sense": 28651,
+  "items_anchor": 24000,
+  "drift_alarm": false,
+  "dense_fallback": false,
+  "wall_time_s": 0.6464202404022217,
+  "audit_hash": ""
+}
