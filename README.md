@@ -79,7 +79,7 @@ unchanged.
 
 This is a *reference implementation for the synthetic research benchmark*, not
 a production evaluation system. The manuscript's empirical questions (RQ1–RQ6 - 
-see reference here: [DOI: 10.13140/RG.2.2.20406.87360](https://doi.org)
+see reference here: [DOI: 10.13140/RG.2.2.20406.87360]
 concern real LLM update loops; nothing here claims those results. Known
 simplifications: Bonferroni (not closed-testing) risk allocation; sub-Gaussian
 mixture boundary for the drift monitor; router statistics simulated with a
